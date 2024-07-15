@@ -2,7 +2,7 @@
 
 ###
 
-<h1> <p align="left">My name is Emircan Kuduğ and I am striving to become a computer engineer from Türkiye</p> </h1>
+<h4> <p align="left">My name is Emircan Kuduğ and I am striving to become a computer engineer from Türkiye</p> </h4>
 
 ###
 
