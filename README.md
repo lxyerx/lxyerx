@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Emircan Kuduğ and I am striving to become a computer engineer from Türkiye</p>
+<h1> <p align="left">My name is Emircan Kuduğ and I am striving to become a computer engineer from Türkiye</p> </h1>
 
 ###
 
-<h2 align="left">I'm Emircan. I will always continue to be interested in software and strive to create something in my life. I share my small to medium-sized code snippets on my account and am continuously working to improve my skills.
+<h2 align="left">I will always continue to be interested in software and strive to create something in my life. I share my small to medium-sized code snippets on my account and am continuously working to improve my skills.
 </h2>
 
 ###
