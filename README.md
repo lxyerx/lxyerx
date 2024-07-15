@@ -3,7 +3,6 @@
 <h2>About Me</h2>
 
 <img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-<p>Welcome to my GitHub profile!</p>
 
 - ⏳ I will always continue to be interested in software and strive to create something in my life. I am sharing my small to medium-sized code snippets on my account and trying to progress.<br>
 
