@@ -1,11 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
-
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lxyerx.https://github.com/lxyerx)
-
 </p>
 <div size='20px'> Hi! My name is Emircan Kuduğ.  :smile: 
 </div>
