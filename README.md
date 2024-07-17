@@ -6,7 +6,7 @@
 
 - ⏳ I will always continue to be interested in software and strive to create something in my life. I am sharing my small to medium-sized code snippets on my account and trying to progress.<br>
 
-- 🔭 I’m currently learning Android development, Unity game development, etc...
+- 🚀 I’m currently learning Android development, Unity game development, etc...
 
 <h2>Skills <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/gifs/code.gif" width="32px" height="32px"></h2>
 
